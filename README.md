@@ -12,7 +12,7 @@ What we learned:
 2. There was also a spike in failed campaings in the month of October.
 3. There were canceled campaigns every month of the year, except October!
 
-These findings would suggest a May start date would be the best timing!
+These findings would suggest a May start date would be the best timing to launch your campaign and don't start in October!
 
 ![Theater_Outcomes_vs_Launch](/Resources/Theater_Outcomes_vs_Launch.png)
 ---
