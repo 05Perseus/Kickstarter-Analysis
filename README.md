@@ -1,15 +1,11 @@
 # An Analysis of Kickstarter Campaigns
 ## *The Goal and Methodology*
 ### In this analysis we wanted to learn how other theater campaigns performed in achieving their goals.
-<br>
-<br>
 The things we wanted to know in particular are:
 1. How did different campaigns perform grouped by their launch month?
 2. What outcomes were achieved based on the campaigns funding goal?
 
 ## *Campaign Performance by Month*
 ### To understand how various theater campaigns performed we first grouped them by their launch date.
-<br>
-<br>
 What we learned is that campaigns were wildly more successful that had May launches. There was also a spike in failed campaings in the month of October. These findings would suggest a May start date would be the best timing!
 ![This chart shows our campaign findings grouped by month](/
