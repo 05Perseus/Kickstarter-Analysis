@@ -10,7 +10,6 @@ The things we wanted to know in particular are:
 What we learned: 
 1. Campaigns were wildly more successful that had May launches. 
 2. There was also a spike in failed campaings in the month of October. 
-<br>
 These findings would suggest a May start date would be the best timing!
 <br>
-![This chart shows our campaign findings grouped by month](/Resources/Theater_Outcomes_vs_Launch.png)
+![This chart shows our campaign findings grouped by month](KickStarter-Analysis/Resources/Theater_Outcomes_vs_Launch.png)
