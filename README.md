@@ -7,5 +7,9 @@ The things we wanted to know in particular are:
 
 ## *Campaign Performance by Month*
 ### To understand how various theater campaigns performed we first grouped them by their launch date.
-What we learned is that campaigns were wildly more successful that had May launches. There was also a spike in failed campaings in the month of October. These findings would suggest a May start date would be the best timing!
-![This chart shows our campaign findings grouped by month](/
+What we learned: 
+1. Campaigns were wildly more successful that had May launches. 
+2. There was also a spike in failed campaings in the month of October. 
+<br>
+These findings would suggest a May start date would be the best timing!
+![This chart shows our campaign findings grouped by month](/Resources/Theater_Outcomes_vs_Launch.png)
