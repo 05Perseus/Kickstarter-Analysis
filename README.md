@@ -12,4 +12,4 @@ What we learned:
 2. There was also a spike in failed campaings in the month of October. 
 These findings would suggest a May start date would be the best timing!
 <br>
-![This chart shows our campaign findings grouped by month](https://github.com/05Perseus/Kickstarter-Analysis/tree/main/Resources/Theater_Outcomes_vs_Launch.png)
+![This chart shows our campaign findings grouped by month](/Kickstarter-Analysis/tree/main/Resources/Theater_Outcomes_vs_Launch.png)
