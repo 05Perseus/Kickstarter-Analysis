@@ -21,6 +21,7 @@ These findings would suggest a May start date would be the best timing!
 What we learned:
 1. Campaigns with lower than a $20k goal and between $35k-$45 were more likely to be successful.
 2. From $20k to $35k and again for campaigns beyond $45k there was a significantly higher likelihood of failure.
+
 Keep the goals low, and you will succeed! Else, find the sweet spot at $40k!
 
 ![Performance by Goal Category](/Resources/Outcomes_vs_Goals.png)
