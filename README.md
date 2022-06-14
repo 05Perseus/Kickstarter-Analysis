@@ -13,4 +13,4 @@ What we learned:
 ---
 These findings would suggest a May start date would be the best timing!
 
-![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/52795349/173482150-0bf592ad-bf80-49e5-ad90-c17d81834083.png)
+![Theater_Outcomes_vs_Launch](/Resources/Theater_Outcomes_vs_Launch.png)
