@@ -25,3 +25,16 @@ What we learned:
 Keep the goals low, and you will succeed! Else, find the sweet spot at $40k!
 
 ![Performance by Goal Category](/Resources/Outcomes_vs_Goals.png)
+
+---
+## *Conclusion*
+We learned several things from this analysis.
+1. Start in May
+2. Don't start in October
+3. Keep the goal below $20k if possible or right around $40k
+
+This dataset only looked at 2 perspectives of the campaigns. To continue our learnings I would suggest further analysis beyond what we've done here. 
+<br>
+Further research should include: 
+1. A deep dive into the performance of the various sub-categories of the Theater campaigns. 
+2. An analysis of the blurb and the content of the campaigns as well. 
